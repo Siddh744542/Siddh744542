@@ -4,7 +4,7 @@
 <p>🌱 I’m currently learning Web Development </p>
 <p>✨ I'm open to Intern/Full time job opportunities as Software Developer</p>
 <p>📫 Reach out to me at tiwarisiddharth27@gmail.com</p>
-<p>💻 My primary coding language Stack: MERN(MongoDB, Express.js, React, Nodejs)</p>
+<p>💻 My Web Development Tech-Stack: MERN(MongoDB, Express.js, React, Nodejs)</p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
