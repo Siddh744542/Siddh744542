@@ -1,5 +1,5 @@
 <h1 align="center" dir="auto">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block; width:30px;"> I’m Siddharth Tiwari</h1>
-<h3 align="center" dir="auto">I am persuing MCA from Institute of Professional Studies at University of Allahabad</h3>
+<h3 align="center" dir="auto">I am pursuing MCA from Institute of Professional Studies at University of Allahabad</h3>
 <br>
 <p>🌱 I’m currently learning Web Development </p>
 <p>✨ I'm open to Intern/Full time job opportunities as Software Developer</p>
